@@ -1,3 +1,5 @@
+Prehistory https://redd.it/7zacjd
+
 # The first critical bug in the blockchain of bitcoin
 When transferring bitcoins to this address 16CCgdxQ1qc89Yp2rZwzBx4Pfw83DtCyrP, transactions do not pass to the recipient, but disappear from the wallet. After a while, bitcoins are returned in the amount of all transactions to the each wallet of the sender, who made a transaction to this address during this time. The peculiarity of this bug is that there is a necessary condition that there are several transactions from different wallets to this address for a certain amount of time.
 
